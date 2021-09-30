@@ -1,0 +1,6 @@
+framework module Pods_iTunes_VIP {
+  umbrella header "Pods-iTunes VIP-umbrella.h"
+
+  export *
+  module * { export * }
+}
